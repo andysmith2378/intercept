@@ -24,7 +24,7 @@ def get_text(number, pixelCoords):
 
 
 if __name__ == "__main__":
-    WIDTH_OF_RANGE_RULER_IN_SQUARES = 55 / 34
+    WIDTH_OF_RANGE_RULER_IN_SQUARES = 59 / 34
     PX_PER_SQUARE = 16
     BORDER = 1
     SPACING = 1.5
